@@ -4,12 +4,11 @@
 
 You will build analytics system that would present usage analytics about a website by collecting events sent to the platform (similar to Mixpanel.com).
 
-## Admin Page Requirements:
+## Home Page Requirements:
 
 ![](https://i.imgur.com/gtPzvXP.jpg)
 
  - Add controls for time-ranges in relevant charts (you can implement it in any way that still works with the [default requirements](backend.md)) 
-### [Backend Requirements](backend.md)
 ### Tiles to present:
  - Showing events on Google Map (cluster events).  
 you can use whichever library you choose, but [this one](https://www.npmjs.com/package/@react-google-maps/api) is recommended) 
@@ -28,6 +27,7 @@ you can use whichever library you choose, but [this one](https://www.npmjs.com/p
  - Showing pie charts with users by operating system usage.
 
 ## Backend Requirements:
+ - use mongodb Atlas
  - POST "/event" - adding new event to event collection.
  - Any other entry point needed.
 	
