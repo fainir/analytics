@@ -72,4 +72,4 @@ you can use whichever library you choose, but [this one](https://www.npmjs.com/p
   - Add any feature you wish
 
 ## Submit the Exersice
-uploud your clinet and server to github and submit the repository link to the exersice on google classroom
+Upload your clienet and server to Github and submit the repository link to the Exersice on google classroom
