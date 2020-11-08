@@ -70,3 +70,6 @@ you can use whichever library you choose, but [this one](https://www.npmjs.com/p
   - Make the time-frame adjustable on all charts
   - While loading data show loading indicator you built using canvas tag
   - Add any feature you wish
+
+## Submit the Exersice
+uploud your clinet and server to github and submit the repository link to the exersice on google classroom
